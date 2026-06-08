@@ -10,7 +10,7 @@ parent: Workshops
 This step-by-step guide for the hands-on project in Nigeria, part of the **Introduction to QGIS** workshop, offers a practical introduction to using QGIS for mapping and basic spatial analysis.
 
 - [Full Abstract](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/Full%20Abstract%2010435437034480e9848afec63609e328.md)
-- 😆 [Slides](https://docs.google.com/presentation/d/1753YZm_CWNk98tHKFKMmfDZaHaSLa1Af/edit?usp=drive_link&ouid=116103803223383670483&rtpof=true&sd=true)
+-  [Slides](https://docs.google.com/presentation/d/1753YZm_CWNk98tHKFKMmfDZaHaSLa1Af/edit?usp=drive_link&ouid=116103803223383670483&rtpof=true&sd=true)
 
 ---
 
@@ -19,7 +19,8 @@ This step-by-step guide for the hands-on project in Nigeria, part of the **Intro
 Please complete the following before starting the workshop:
 
 ### 1. Install QGIS  
-Follow the instructions in  
+Follow the instructions in 
+
 👉 [Downloading QGIS](https://app.notion.com/p/Downloading-installing-and-exploring-QGIS-interface-11a35437034480789ee4e4cc5c98131d?pvs=21)
 
 ![QGIS Interface](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image.png)
