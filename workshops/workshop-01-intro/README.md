@@ -1,2 +1,7 @@
+---
+title: INTRODUCTION TO QGIS WORKSHOP
+nav_order: 1
+---
+
 # 1. INTRODUCTION TO QGIS WORKSHOP
 
