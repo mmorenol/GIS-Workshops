@@ -10,7 +10,7 @@ parent: Workshops
 
 This step-by-step guide for the hands-on project in Nigeria, part of the **Introduction to QGIS** workshop, offers a practical introduction to using QGIS for mapping and basic spatial analysis.
 
-- [Full Abstract][Full Abstract](assets/Full%20Abstract%2010435437034480e9848afec63609e328.md)
+- [Full Abstract](assets/Full%20Abstract%2010435437034480e9848afec63609e328.md)
 - [Download Workshop Slides (PDF)](assets/Workshop1%20Slides.pptx.pdf)
 - [Slides ppt ](https://docs.google.com/presentation/d/1753YZm_CWNk98tHKFKMmfDZaHaSLa1Af/edit?usp=drive_link&ouid=116103803223383670483&rtpof=true&sd=true)
 
