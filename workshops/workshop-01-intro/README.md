@@ -1,4 +1,5 @@
 ---
+---
 title: INTRODUCTION TO QGIS WORKSHOP
 nav_order: 1
 parent: Workshops
@@ -9,8 +10,8 @@ parent: Workshops
 
 This step-by-step guide for the hands-on project in Nigeria, part of the **Introduction to QGIS** workshop, offers a practical introduction to using QGIS for mapping and basic spatial analysis.
 
-- [Full Abstract](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/Full%20Abstract%2010435437034480e9848afec63609e328.md)
--  [Slides](https://docs.google.com/presentation/d/1753YZm_CWNk98tHKFKMmfDZaHaSLa1Af/edit?usp=drive_link&ouid=116103803223383670483&rtpof=true&sd=true)
+- [Full Abstract](assets/Full%20Abstract%2010435437034480e9848afec63609e328.md)
+- [Slides](https://docs.google.com/presentation/d/1753YZm_CWNk98tHKFKMmfDZaHaSLa1Af/edit?usp=drive_link&ouid=116103803223383670483&rtpof=true&sd=true)
 
 ---
 
@@ -19,11 +20,11 @@ This step-by-step guide for the hands-on project in Nigeria, part of the **Intro
 Please complete the following before starting the workshop:
 
 ### 1. Install QGIS  
-Follow the instructions in 
+Follow the instructions in:
 
 👉 [Downloading QGIS](https://app.notion.com/p/Downloading-installing-and-exploring-QGIS-interface-11a35437034480789ee4e4cc5c98131d?pvs=21)
 
-![QGIS Interface](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image.png)
+![QGIS Interface](assets/image.png)
 
 ### 2. Download the Workshop Data  
 💾 [Workshop DATA](https://drive.google.com/drive/folders/1Q037BIwtwuU3UU6mOhzNsvBzdSeWbzo0?usp=drive_link)
@@ -51,13 +52,13 @@ Key components:
 - **Map View** – main visualization area  
 - **Status Bar** – CRS and map info  
 
-![QGIS Interface](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/1_NewProject_Anno-2862822255.jpg)
+![QGIS Interface](assets/1_NewProject_Anno-2862822255.jpg)
 
 ### c. Add the Processing Toolbox  
 - `View` → `Panels` → enable **Processing Tools**  
 - Shortcut: **Ctrl + Alt + T** (Windows) / **Cmd + Alt + T** (macOS)
 
-![Processing Toolbox](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%201.png)
+![Processing Toolbox](assets/image%201.png)
 
 ---
 
@@ -77,7 +78,7 @@ For this workshop, download the pre‑selected shapefiles, unzip them, and save 
 - Rename layers  
 - Change symbology  
 
-![Zoom Tools](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%202.png)
+![Zoom Tools](assets/image%202.png)
 
 Workshop task:  
 - Political boundaries → white fill + black border  
@@ -91,7 +92,7 @@ Workshop task:
 - `Layer` → `Data Source Manager` → `XYZ Tiles`  
 - Click **New**
 
-![XYZ Tiles](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%203.png)
+![XYZ Tiles](assets/image%203.png)
 
 ### b. Add Server URLs  
 Examples:
@@ -132,7 +133,7 @@ Workshop task:
 - Classify  
 - Exclude 0  
 
-![Raster Display](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%204.png)
+![Raster Display](assets/image%204.png)
 
 ---
 
@@ -146,19 +147,19 @@ Workshop task:
 Workshop task:  
 - Filter **Nigeria** from political boundaries  
 
-![Query Example](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%206.png)
+![Query Example](assets/image%206.png)
 
 ### b. Select Feature by Value  
 Workshop task:  
 - Search for **ALAU** dam  
 
-![Select Feature](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%207.png)
+![Select Feature](assets/image%207.png)
 
 ### c. Identify Location with OSM Search Plugin  
 - Install **OSM Search** plugin  
 - Search: *Maiduguri*, *Konduga*, *Alau Dam*
 
-![OSM Search](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%209.png)
+![OSM Search](assets/image%209.png)
 
 ### d. Create a Shapefile  
 - `Layer` → `Create Layer` → `New Shapefile Layer`  
@@ -169,7 +170,7 @@ Workshop task:
 Workshop task:  
 - Create shapefile **Alau Dam**
 
-![New Shapefile](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2010.png)
+![New Shapefile](assets/image%2010.png)
 
 ### e. Edit the Shapefile  
 - Toggle Editing  
@@ -177,9 +178,9 @@ Workshop task:
 - Save edits  
 - Style with star symbol + label  
 
-![Label Example](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2011.png)
+![Label Example](assets/image%2011.png)
 
-![Satellite View](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2012.png)
+![Satellite View](assets/image%2012.png)
 
 ### f. Create a Buffer  
 - Processing Toolbox → **Buffer**  
@@ -187,14 +188,14 @@ Workshop task:
 - Distance: **25 km**  
 - Dissolve: Yes  
 
-![Buffer Tool](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2013.png)
+![Buffer Tool](assets/image%2013.png)
 
 ---
 
 ## Step 7: Create a Map
 
 ### a. Sketch Your Idea  
-![Sketch](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2014.png)
+![Sketch](assets/image%2014.png)
 
 ### b. Print Layout  
 - Create new layout  
@@ -203,7 +204,7 @@ Workshop task:
 - Lock layers  
 - Add scale bar, north arrow, title, legend  
 
-![Layout](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/image%2015.png)
+![Layout](assets/image%2015.png)
 
 ---
 
@@ -216,5 +217,4 @@ Workshop task:
 ---
 
 ## Data Sources  
-[Data sources](INTRODUCTION%20TO%20Q%20GIS%20WORKSHOP/Data%20sources%20e7c4a266321148f88d674bd84888412e.md)
-
+[Data sources](assets/Data%20sources%20e7c4a266321148f88d674bd84888412e.md)
