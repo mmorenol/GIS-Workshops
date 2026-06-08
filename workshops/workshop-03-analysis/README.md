@@ -1,1 +1,5 @@
+---
+title: CRAFTING COMPELLING MAP SERIES
+nav_order: 3
+---
 # ROUTE OPTIMIZATION IN Q-GIS
